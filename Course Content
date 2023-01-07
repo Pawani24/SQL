@@ -1,1 +1,3 @@
 SQL Statements:
+DQL:
+Sql commands that are used to retrieve data from db are known as dql .
